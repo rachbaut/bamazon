@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachbaut/bamazon.git"
+  },
+  "keywords": [
+    "store",
+    "supplies",
+    "stuff"
+  ],
+  "author": "R Bautista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachbaut/bamazon/issues"
+  },
+  "homepage": "https://github.com/rachbaut/bamazon#readme"
+}
